@@ -1,1 +1,5 @@
 #Day 4 02.01.2023
+1.https://www.codechef.com/problems/TODOLIST
+2.https://www.codechef.com/problems/ACCURACY->(3*(marks/3)+3)-marks)%3 
+                                              3-(marks%3) if marks%3!=0 else 0
+3.
