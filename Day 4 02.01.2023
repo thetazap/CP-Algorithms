@@ -3,3 +3,5 @@
 2.https://www.codechef.com/problems/ACCURACY->(3*(marks/3)+3)-marks)%3 
                                               3-(marks%3) if marks%3!=0 else 0
 3.https://www.codechef.com/problems/ACTEMP
+4.https://www.codechef.com/problems/NEARESTEXIT
+5.https://www.codechef.com/problems/RECENTCONT
