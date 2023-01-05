@@ -7,3 +7,4 @@
 https://codeforces.com/contest/1768/problem/0  ///VVVIMP to figure out logic
 6.https://codeforces.com/contest/1768/problem/B  ////vvvimp logic is (n-no of items in place)/k if divisible by k and /k)+1 if not divisible
                                                       no of items in place we check by keeping a checker=1 and iterate it, if check hits, check++;and count++;
+https://codeforces.com/contest/1768/problem/C ////VVVVVIMP check soln
